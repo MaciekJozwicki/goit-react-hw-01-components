@@ -1,0 +1,19 @@
+.transactionHistory {
+  border-collapse: collapse;
+  border: 1px solid #000;
+  text-align: center;
+  margin-top: 50px;
+}
+.tableHead {
+  background-color: #000;
+  color: #fff;
+}
+.tableHeadItem {
+  padding: 10px;
+}
+.tableRow {
+  border: 1px solid #000;
+}
+.tableItem {
+  padding: 10px;
+}
